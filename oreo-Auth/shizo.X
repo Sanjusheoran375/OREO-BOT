@@ -1,1 +1,1 @@
-© shizo the techie
+© sanju the rock
