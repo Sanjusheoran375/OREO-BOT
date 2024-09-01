@@ -10,19 +10,19 @@ global.owner = [
   ['919728714060', 'Sanju Techie ❤️✨', true]
 ]
 global.mods = []
-global.prems = []
+global.prems = [919728714060]
 
-global.author = process.env.OWNER_NAME || 'Shizo The Techie'
-global.botname = process.env.BOT_NAME || 'OREO-BOT'
+global.author = process.env.OWNER_NAME || 'Sanju The Rock '
+global.botname = process.env.BOT_NAME || 'Sanju The Rock'
 global.oname = author
 global.bname = botname
 
 //Extra Shortcuts
-global.smlink = process.env.SOCIAL_MEDIA_LINK || 'https://instagram.com/shizo_the_techie'
+global.smlink = process.env.SOCIAL_MEDIA_LINK || 
 global.gclink = process.env.GROUP_LINK || 'https://chat.whatsapp.com/DNnKVtOmUhw0QahndynuzW'
  
 //Apikeys
-global.shizokeys = 'shizo'
+global.shizokeys = 'sanju'
 
 //Sticker Watermarks
 global.packname = process.env.BOT_NAME || 'SANJU-BOT 🥵'
