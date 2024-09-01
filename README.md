@@ -116,7 +116,7 @@
 
 ```
 
-apt update -y && apt upgrade -y && pkg update -y && pkg upgrade -y && pkg install libwebp -y && pkg install git -y && pkg install nodejs -y && pkg install ffmpeg -y && pkg install yarn && pkg install imagemagick -y && git clone https://github.com/shizothetechie/oreo-bot.git && cd oreo-bot && yarn install && node .
+apt update -y && apt upgrade -y && pkg update -y && pkg upgrade -y && pkg install libwebp -y && pkg install git -y && pkg install nodejs -y && pkg install ffmpeg -y && pkg install yarn && pkg install imagemagick -y && git clone https://github.com/sanjussheoran375/oreo-bot.git && cd oreo-bot && yarn install && node .
 
 ```
 
@@ -156,7 +156,7 @@ cd oreo-bot && node .
 ## `Main Dev` 
 <a href="https://github.com/shizothetechie"><img src="https://github.com/shizothetechie.png" width="100" height="100" alt="ShizoDevs"/></a>
   
-`OREO-BOT - By Shizo The Techie`
+`OREO-BOT - By Sanju The Rock`
 
 ### CONTRIBUTORS
 <a href="https://github.com/gariox3d"><img src="https://github.com/gariox3d.png" width="85" height="85" alt="Gariox 3D"/></a>
